@@ -1,0 +1,1 @@
+This repository contains a simple COBOL program demonstrating a common error related to array indexing.  The bug involves incorrect usage of array subscripts, leading to potential runtime errors or unexpected behavior. The solution provides the correct implementation.
